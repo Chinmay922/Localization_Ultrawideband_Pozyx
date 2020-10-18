@@ -4,7 +4,7 @@
 
 The Pozyx developer tag provides accurate positioning in X, Y and Z coordinates. It also tells the heading angle in which the moving tag is heading. For localization, it utilizes a set of sensors and an ultra-wideband (UWB) transceiver. The principal component is the DW1000 UWB-chip from Decawave that is used for wireless ranging and messaging. The board is equipped with a 9-axis inertial measurement unit for orientation information. https://www.pozyx.io/shop/product/developer-tag-68
 
-# Dependemcies
+# Dependencies
 
 * Arduino Board Uno
 * Arduino IDE
