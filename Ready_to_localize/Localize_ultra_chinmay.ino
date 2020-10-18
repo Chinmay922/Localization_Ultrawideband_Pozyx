@@ -1,5 +1,6 @@
 // Please read the ready-to-localize tuturial together with this example.
 // https://www.pozyx.io/Documentation/Tutorials/ready_to_localize
+// Project by Chinmay Rathod & Shaurya Panthri
 
 #include <Pozyx.h>
 #include <Pozyx_definitions.h>
