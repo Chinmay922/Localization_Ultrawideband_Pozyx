@@ -8,7 +8,8 @@ The Pozyx developer tag provides accurate positioning in X, Y and Z coordinates.
 
 * Arduino Board Uno
 * Arduino IDE
-* Pozyx Master Library(Windows)
+* Pozyx Master Library(Windows) - https://github.com/pozyxLabs/Pozyx-Arduino-library
+ Download the master library and make sure it is inside your Documents/Arduino/libraries
 * Pozyx Sheild 
 
 
